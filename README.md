@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" alt="Java Backend Developer | Chandan Patro" width="100%" />
+  <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" alt="Java Backend Developer | Chandan Patro" width="100%" height="50%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Chandan Patro</h1>
