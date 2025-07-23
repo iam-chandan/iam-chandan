@@ -4,36 +4,36 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Chandan Patro</h1>
-<h3 align="center">🚀 Java Backend Developer | Django & MERN Enthusiast | Open Source Contributor</h3>
+<h3 align="center">🚀 Java Backend Developer </h3>
 
 ---
 
 ## 🧑‍💼 About Me
 
-- 🔭 I’m currently building scalable backend systems using **Java (Spring Boot)** and **Python (Django)**  
+- 🔭 I’m currently building scalable backend systems using **Java (Spring Boot)**  
 - 🌱 Exploring **Microservices**, **System Design**, and **Dockerized Deployments**  
 - ⚡ Fun fact: I love turning complex business problems into simple, efficient backend solutions  
 - 🎓 Strong in **Data Structures**, **OOP**, and **Backend Architecture**  
-- 💬 Ask me about `Java`, `Spring Boot`, `REST APIs`, `MySQL`, `JPA`, `Firebase`, `Docker`, and `Django`
+- 💬 Ask me about `Java`, `Spring Boot`, `REST APIs`, `MySQL`, `JPA`,and `Docker`
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Java` | `Python` | `Kotlin` | `JavaScript` | `C++`  
+`Java` | `JavaScript` 
 
 **Backend:**  
-`Spring Boot` | `Django` | `Node.js` | `Express.js`  
+`Spring Boot` | `Node.js` | `Express.js`  
 
 **Frontend:**  
 `ReactJS` | `Tailwind CSS` | `HTML/CSS` | `Bootstrap`  
 
 **Databases:**  
-`MySQL` | `MongoDB` | `PostgreSQL` | `Firebase Firestore`  
+`MySQL` | `MongoDB` | `PostgreSQL` 
 
 **Tools & Cloud:**  
-`Git` | `Docker` | `Postman` | `Heroku` | `Apache` | `VS Code` | `IntelliJ` | `Android Studio`  
+`Git` | `Docker` | `Postman` | `Apache` | `VS Code` | `IntelliJ`   
 
 ---
 
