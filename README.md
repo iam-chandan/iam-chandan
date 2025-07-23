@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Java` | `Python` | `JavaScript`
+`Java` | `JavaScript`
 
 **Backend:**  
 `Spring Boot` | `Node.js` | `Express.js`
