@@ -10,7 +10,7 @@
 ---
 
 ## 🧑‍💼 About Me
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🔭 I’m currently building scalable backend systems using **Java (Spring Boot)** 
 - 🌱 Exploring **Microservices**, **System Design**, and **Dockerized Deployments**  
 - 🎓 Strong in **Data Structures**, **OOP**, and **Backend Architecture**  
