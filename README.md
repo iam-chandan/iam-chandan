@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://github.com/ChandanPatro99/chandanpatro99/assets/animated-dev-banner.gif" alt="Java Backend Developer | Chandan Patro" width="100%" />
+  <img src="[https://github.com/ChandanPatro99/chandanpatro99/assets/animated-dev-banner.gif](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)" alt="Java Backend Developer | Chandan Patro" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Chandan Patro</h1>
