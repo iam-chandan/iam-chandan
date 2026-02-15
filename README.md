@@ -76,25 +76,132 @@
 
 ## ⚙️ Languages & Tools
 
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
 
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" style="border-radius:50%; padding:10px; background:#f5f5f5; margin:5px;" /></a>
+<p align="left">
 
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" style="border-radius:50%; padding:10px; background:#f5f5f5; margin:5px;" /></a>
+<a href="https://aws.amazon.com" target="_blank">
+  <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  </span>
+</a>
 
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" style="border-radius:50%; padding:10px; background:#f5f5f5; margin:5px;" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  </span>
+</a>
 
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" style="border-radius:50%; padding:10px; background:#f5f5f5; margin:5px;" /></a>
+<a href="https://www.docker.com/" target="_blank">
+  <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  </span>
+</a>
 
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" style="border-radius:50%; padding:10px; background:#f5f5f5; margin:5px;" /></a>
+<a href="https://cloud.google.com" target="_blank">
+  <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
+  </span>
+</a>
 
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" style="border-radius:50%; padding:10px; background:#f5f5f5; margin:5px;" /></a>
+<a href="https://git-scm.com/" target="_blank">
+  <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  </span>
+</a>
 
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" style="border-radius:50%; padding:10px; background:#f5f5f5; margin:5px;" /></a>
+<a href="https://www.w3.org/html/" target="_blank">
+  <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  </span>
+</a>
 
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" style="border-radius:50%; padding:10px; background:#f5f5f5; margin:5px;" /></a>
+<a href="https://www.java.com" target="_blank">
+  <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  </span>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  </span>
+</a>
+
+<a href="https://kafka.apache.org/" target="_blank">
+  <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
+  </span>
+</a>
+
+<a href="https://kubernetes.io" target="_blank">
+  <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
+  </span>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+  <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  </span>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  </span>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  </span>
+</a>
+
+<a href="https://www.postgresql.org" target="_blank">
+  <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  </span>
+</a>
+
+<a href="https://postman.com" target="_blank">
+  <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  </span>
+</a>
+
+<a href="https://reactjs.org/" target="_blank">
+  <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  </span>
+</a>
+
+<a href="https://redis.io" target="_blank">
+  <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
+  </span>
+</a>
+
+<a href="https://redux.js.org" target="_blank">
+  <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
+  </span>
+</a>
+
+<a href="https://spring.io/" target="_blank">
+  <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+  </span>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+  <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+  </span>
+</a>
 
 </p>
+
 
 ---
 
