@@ -2,7 +2,7 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
 <p align="center">
-  <img src="https://github.com/ChandanPatro99/chandanpatro99/assets/animated-dev-banner.gif" width="100%" />
+  <img src="https://pt.pinterest.com/pin/342344009197606112/" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Chandan Patro</h1>
