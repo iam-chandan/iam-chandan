@@ -78,7 +78,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left" style="
+<div align="left" style="
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -205,7 +205,7 @@
   </span>
 </a>
 
-</p>
+</div>
 
 
 ---
