@@ -78,7 +78,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+<p align="left" style="
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+">
 
 <a href="https://aws.amazon.com" target="_blank">
   <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
