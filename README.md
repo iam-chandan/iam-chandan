@@ -84,13 +84,13 @@
   align-items: center;
 ">
 
-<a href="https://aws.amazon.com" target="_blank" style="display:inline-flex; margin:6px;">
+<a href="https://aws.amazon.com" target="_blank" style="display:inline-block; margin:6px;">
   <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
   </span>
 </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank" style="display:inline-flex; margin:6px;">
+<a href="https://www.w3schools.com/css/" target="_blank" style="display:inline-block; margin:6px;">
   <span style="display:inline-block; background:#0b1f3a; padding:10px; margin:6px; border:2px solid black; border-radius:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   </span>
