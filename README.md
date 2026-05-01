@@ -12,13 +12,13 @@
 
 ## 🧑‍💼 About Me
 
-- 🔭 I’m currently building scalable backend systems using **Java (Spring Boot)** 
+- 🔭 I'm currently building scalable backend systems using **Java (Spring Boot)** 
 - 🌱 Exploring **Microservices**, **System Design**, and **Dockerized Deployments**  
 - 🎓 Strong in **Data Structures**, **OOP**, and **Backend Architecture**  
 - 💬 Ask me about `Java`, `Spring Boot`, `REST APIs`, `MySQL`, `Docker`  
 - 📫 Reach me at **chandanpatro789@gmail.com**
 
-> 💬 *“Write clean code, solve real problems, and grow a little every day.”*
+> 💬 *"Write clean code, solve real problems, and grow a little every day."*
 
 ---
 
@@ -78,10 +78,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="left" style="
+<div style="
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  justify-content: flex-start;
   gap: 12px;
 ">
 
