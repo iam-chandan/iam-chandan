@@ -82,8 +82,6 @@
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: flex-start;
-  gap: 12px;
 ">
 
 <a href="https://aws.amazon.com" target="_blank" style="display:inline-flex; margin:6px;">
